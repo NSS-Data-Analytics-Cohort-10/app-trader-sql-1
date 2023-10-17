@@ -6,7 +6,7 @@ Unfortunately, the data for Apple App Store apps and Android Play Store Apps is 
 
 #### 1. Loading the data
 a. Launch PgAdmin and create a new database called app_trader.  
-
+1111
 b. Right-click on the app_trader database and choose `Restore...`  
 
 c. Use the default values under the `Restore Options` tab. 
